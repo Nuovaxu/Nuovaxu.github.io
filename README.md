@@ -1,6 +1,9 @@
 ## Editor: Nuo Xu
 ## Note: this repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.io
 
+## Activity 1:
+![image](https://github.com/Nuovaxu/Nuovaxu.github.io/assets/114842917/95976cbf-bf6c-46b4-8785-2c1f989c2288)
+
 # Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
