@@ -25,6 +25,14 @@
 ![image](https://github.com/Nuovaxu/Nuovaxu.github.io/assets/114842917/61022a3d-6a99-4671-9b0e-92e73227e07c)
 ![image](https://github.com/Nuovaxu/Nuovaxu.github.io/assets/114842917/e959bba7-46e1-4a0c-895b-ebec316f8693)
 
+## Activity 4:
+
+### screenshots of the repo:
+![image](https://github.com/Nuovaxu/Nuovaxu.github.io/assets/114842917/b7d8af37-d26d-4ba8-ae7a-69526da8fc6d)
+![image](https://github.com/Nuovaxu/Nuovaxu.github.io/assets/114842917/b0b3686d-8e04-474c-8b33-200d24c8b43a)
+
+### Screenshots of “places travelled” section
+![image](https://github.com/Nuovaxu/Nuovaxu.github.io/assets/114842917/c7053572-8215-4fa2-b3a4-347c966f1264)
 
 # Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
