@@ -16,6 +16,14 @@
 ![image](https://github.com/Nuovaxu/Nuovaxu.github.io/assets/114842917/e8e27c1d-b84b-488a-a853-252a4f55ab0e)
 ![image](https://github.com/Nuovaxu/Nuovaxu.github.io/assets/114842917/99867953-8b63-433e-8f09-3ec6e6029ea3)
 
+## Activity 3:
+### screenshots of the repo:
+![image](https://github.com/Nuovaxu/Nuovaxu.github.io/assets/114842917/91cd2153-e7cd-4720-b872-acce5f58e3c6)
+![image](https://github.com/Nuovaxu/Nuovaxu.github.io/assets/114842917/b3d44c3a-c5f7-46e4-9c12-99cdf014b376)
+
+### Screenshots of the home page:
+![image](https://github.com/Nuovaxu/Nuovaxu.github.io/assets/114842917/61022a3d-6a99-4671-9b0e-92e73227e07c)
+![image](https://github.com/Nuovaxu/Nuovaxu.github.io/assets/114842917/e959bba7-46e1-4a0c-895b-ebec316f8693)
 
 
 # Personal Portfolio ⚡️ 
