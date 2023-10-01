@@ -4,6 +4,20 @@
 ## Activity 1:
 ![image](https://github.com/Nuovaxu/Nuovaxu.github.io/assets/114842917/95976cbf-bf6c-46b4-8785-2c1f989c2288)
 
+
+## Activity 2:
+### screenshots of the repo:
+![image](https://github.com/Nuovaxu/Nuovaxu.github.io/assets/114842917/a13af0d0-5ab8-4c8c-b4b5-36bca486cf99)
+![image](https://github.com/Nuovaxu/Nuovaxu.github.io/assets/114842917/789c1340-48c0-4372-bfa9-cacc8cd1f9ce)
+
+
+### Some example screenshots prove that I changed infomation:
+![image](https://github.com/Nuovaxu/Nuovaxu.github.io/assets/114842917/5c764d69-92e5-4f41-a02b-f93efbf488ef)
+![image](https://github.com/Nuovaxu/Nuovaxu.github.io/assets/114842917/e8e27c1d-b84b-488a-a853-252a4f55ab0e)
+![image](https://github.com/Nuovaxu/Nuovaxu.github.io/assets/114842917/99867953-8b63-433e-8f09-3ec6e6029ea3)
+
+
+
 # Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
